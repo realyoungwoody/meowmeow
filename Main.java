@@ -6,6 +6,7 @@ public class Main {
         float f = in.nextFloat();
         System.out.print("Введите ыгрык: ");
         float g = in.nextFloat();
+        System.out.println();
         System.out.println(f + " + " + g + " = " + (f + g) );
     }
 }
